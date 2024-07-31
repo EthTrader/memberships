@@ -5,7 +5,7 @@
         "redditor": "mattg1981",
         "type": "nft",
         "community": "ethtrader",
-        "season": 0
+        "season": 1
     },
     {
         "owner": "0x7f25555A0C85B53Cb8934960D0e4ae2DF65CeCaB",
@@ -62,6 +62,18 @@
         "community": "all"
     },
     {
+        "owner": "0x0eAfDE159A21Ca316e1fA7f64e7755e15B9C1349",
+        "redditor": "Yinyangkarma060910",
+        "type": "lp",
+        "community": "all"
+    },
+    {
+        "owner": "0x35162A2ed27a8E2dC96471AB6Fb63e0Fd5058d46",
+        "redditor": "Soaring_Eagle590",
+        "type": "lp",
+        "community": "all"
+    },
+    {
         "owner": "0x80148c5d2b61182107f43FAE67f8F2ec4b5dbcDE",
         "redditor": "Basoosh",
         "type": "lp",
@@ -70,6 +82,42 @@
     {
         "owner": "0xB127e23bf80e0D8688D994c1a093e3657856A040",
         "redditor": "fairysquirt",
+        "type": "lp",
+        "community": "all"
+    },
+    {
+        "owner": "0x2A043F315F24762937CBCf0EB6CB313a43bDE534",
+        "redditor": "raymv1987",
+        "type": "lp",
+        "community": "all"
+    },
+    {
+        "owner": "0x9Af25fF741763B43F67be449329A3A607799BFf1",
+        "redditor": "Budget_Muffin7766",
+        "type": "lp",
+        "community": "all"
+    },
+    {
+        "owner": "0xE120ffC02ff9E6685aD3D65f998D8e40b4578A17",
+        "redditor": "Sharkytrs",
+        "type": "lp",
+        "community": "all"
+    },
+    {
+        "owner": "0xEca23ebdfDf663d499891a833D22956a6f65DFA2",
+        "redditor": "Kindly-Wolf6919",
+        "type": "lp",
+        "community": "all"
+    },
+    {
+        "owner": "0x349Cb3d3Db85A1bFF571eCAAafF4CFf48503cd54",
+        "redditor": "likelysomeone3",
+        "type": "lp",
+        "community": "all"
+    },
+    {
+        "owner": "0x12985951Fa7051f0b1AE2C0749C8285bD742A82b",
+        "redditor": "Haruhi4",
         "type": "lp",
         "community": "all"
     }
