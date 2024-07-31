@@ -4,7 +4,14 @@
         "owner": "0xd762e68a2d30ab4d836683c421121AbB5b3e1DcC",
         "redditor": "mattg1981",
         "type": "nft",
-        "community": "ethtrader_test"
+        "community": "ethtrader"
+    },
+    {
+        "token_id": 0,
+        "owner": "0xd762e68a2d30ab4d836683c421121AbB5b3e1DcC",
+        "redditor": "mattg1981",
+        "type": "lp",
+        "community": "all"
     },
     {
         "token_id": 0,
