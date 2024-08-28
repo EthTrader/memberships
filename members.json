@@ -48,6 +48,46 @@
         "season": 1
     },
     {
+        "token_id": 6,
+        "owner": "0xc149c6d082Da03319497A4Cfea8324A88CD1C898",
+        "redditor": "kirtash93",
+        "type": "nft",
+        "community": "ethtrader",
+        "season": 1
+    },
+    {
+        "token_id": 7,
+        "owner": "0xFEdD14d3a32FaAbfbd6E290fAA73Aec58e894650",
+        "redditor": "DBRiMatt",
+        "type": "nft",
+        "community": "ethtrader",
+        "season": 1
+    },
+    {
+        "token_id": 8,
+        "owner": "0xa18aBe5EDDaB2cdBF2837425FAaf32bd9B0085Dc",
+        "redditor": "MichaelAischmann",
+        "type": "nft",
+        "community": "ethtrader",
+        "season": 1
+    },
+    {
+        "token_id": 9,
+        "owner": "0xc20996Ea4a76DdcAA03eC7889bc9C249cCe9E2C3",
+        "redditor": "rikbona",
+        "type": "nft",
+        "community": "ethtrader",
+        "season": 1
+    },
+    {
+        "token_id": 10,
+        "owner": "0xb7B008FCe7D334931FF5DB41f56aa063D091dF68",
+        "redditor": "Master-Score7344",
+        "type": "nft",
+        "community": "ethtrader",
+        "season": 1
+    },
+    {
         "owner": "0xfedd14d3a32faabfbd6e290faa73aec58e894650",
         "redditor": "DBRiMatt",
         "type": "lp",
