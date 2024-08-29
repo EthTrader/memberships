@@ -128,6 +128,14 @@
         "season": 1
     },
     {
+        "token_id": 16,
+        "owner": "0xE40EaDCD565221B63bB106D668baa43941B53a65",
+        "redditor": "LegendRXL",
+        "type": "nft",
+        "community": "ethtrader",
+        "season": 1
+    },
+    {
         "owner": "0xfedd14d3a32faabfbd6e290faa73aec58e894650",
         "redditor": "DBRiMatt",
         "type": "lp",
