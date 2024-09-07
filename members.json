@@ -230,6 +230,12 @@
         "community": "all"
     },
     {
+        "owner": "0xeb9a6e724925b178d9627ce05208cfe6a5c11447",
+        "redditor": "Kappatalizable",
+        "type": "lp",
+        "community": "all"
+    },
+    {
         "owner": "0x35162a2ed27a8e2dc96471ab6fb63e0fd5058d46",
         "redditor": "Soaring_Eagle590",
         "type": "lp",
@@ -250,12 +256,6 @@
     {
         "owner": "0xb127e23bf80e0d8688d994c1a093e3657856a040",
         "redditor": "fairysquirt",
-        "type": "lp",
-        "community": "all"
-    },
-    {
-        "owner": "0xeb9a6e724925b178d9627ce05208cfe6a5c11447",
-        "redditor": "Kappatalizable",
         "type": "lp",
         "community": "all"
     },
