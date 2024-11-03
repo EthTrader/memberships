@@ -88,12 +88,6 @@
         "community": "all"
     },
     {
-        "owner": "0xb89cb46a5cf811b99a3608c8b9e63ad0de990fe0",
-        "redditor": "Buzzalu",
-        "type": "lp",
-        "community": "all"
-    },
-    {
         "owner": "0x93d93069fbc8d0868b93c6be9383ed9f85392474",
         "redditor": "Paper_cobbler",
         "type": "lp",
@@ -114,6 +108,12 @@
     {
         "owner": "0xeb9a6e724925b178d9627ce05208cfe6a5c11447",
         "redditor": "Kappatalizable",
+        "type": "lp",
+        "community": "all"
+    },
+    {
+        "owner": "0xb89cb46a5cf811b99a3608c8b9e63ad0de990fe0",
+        "redditor": "Buzzalu",
         "type": "lp",
         "community": "all"
     },
