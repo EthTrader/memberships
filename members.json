@@ -118,6 +118,12 @@
         "community": "all"
     },
     {
+        "owner": "0x48afb64d55c79a2e711c14a2bf903a7c3842bacc",
+        "redditor": "Jake123194",
+        "type": "lp",
+        "community": "all"
+    },
+    {
         "owner": "0xeca23ebdfdf663d499891a833d22956a6f65dfa2",
         "redditor": "Kindly-Wolf6919",
         "type": "lp",
@@ -132,6 +138,12 @@
     {
         "owner": "0x349cb3d3db85a1bff571ecaaaff4cff48503cd54",
         "redditor": "likelysomeone3",
+        "type": "lp",
+        "community": "all"
+    },
+    {
+        "owner": "0x2a043f315f24762937cbcf0eb6cb313a43bde534",
+        "redditor": "raymv1987",
         "type": "lp",
         "community": "all"
     }
