@@ -64,6 +64,14 @@
         "season": 2
     },
     {
+        "token_id": 8,
+        "owner": "0x5eD61dee19B3355cf125a5cB95bEC8f344523628",
+        "redditor": "DrRobbe",
+        "type": "nft",
+        "community": "ethtrader",
+        "season": 2
+    },
+    {
         "owner": "0x7f25555a0c85b53cb8934960d0e4ae2df65cecab",
         "redditor": "MemeyCurmudgeon",
         "type": "lp",
