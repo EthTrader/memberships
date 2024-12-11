@@ -9,14 +9,14 @@ import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
 import "@openzeppelin/contracts/access/AccessControl.sol";
 
-contract EthTraderSpecialMembershipSeason3 is ERC721, ERC721Enumerable, ERC721URIStorage, AccessControl {
+contract EthTraderSpecialMembershipSeason9 is ERC721, ERC721Enumerable, ERC721URIStorage, AccessControl {
     uint256 private _nextTokenId;
 
     uint256 public DonutCostToMint;
     uint256 public TotalBurned;
     IERC20 private _donutToken;
 
-    constructor() ERC721("EthTrader Special Membership (S03)", "ETSMS03") {        
+    constructor() ERC721("EthTrader Special Membership (S09)", "ETSMS09") {        
         _donutToken = IERC20(0xF42e2B8bc2aF8B110b65be98dB1321B1ab8D44f5); 
 
         // initiliaze total burned
