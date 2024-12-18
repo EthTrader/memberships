@@ -1,5 +1,13 @@
 [
     {
+        "token_id": 0,
+        "owner": "0x0c4B8B79E0ebA3e407Bc175176Db496474046e9a",
+        "redditor": "0xMarcAurel",
+        "type": "nft",
+        "community": "ethtrader",
+        "season": 3
+    },
+    {
         "owner": "0x7f25555a0c85b53cb8934960d0e4ae2df65cecab",
         "redditor": "MemeyCurmudgeon",
         "type": "lp",
