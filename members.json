@@ -6,5 +6,13 @@
         "type": "nft",
         "community": "ethtrader",
         "season": 3
+    },
+    {
+        "token_id": "deprecated",
+        "owner": "0x80148c5d2b61182107f43FAE67f8F2ec4b5dbcDE",
+        "redditor": "Basoosh",
+        "type": "nft",
+        "community": "ethtrader",
+        "season": 3
     }
 ]
