@@ -22,7 +22,7 @@ contract EthTraderSpecialMembershipSeason4 is ERC721, ERC721Enumerable, ERC721UR
         DonutCostToMint = 1000;
 
         _grantRole(DEFAULT_ADMIN_ROLE, msg.sender);
-        _grantRole(DEFAULT_ADMIN_ROLE, 0xCA7faf6c0441049e2F449fbA86B77587987A21Fe);  // 0xMarcAurel
+        _grantRole(DEFAULT_ADMIN_ROLE, 0x0c4B8B79E0ebA3e407Bc175176Db496474046e9a);  // 0xMarcAurel
         _grantRole(DEFAULT_ADMIN_ROLE, 0x80148c5d2b61182107f43FAE67f8F2ec4b5dbcDE);  // Basoosh
     }
 
@@ -40,7 +40,8 @@ contract EthTraderSpecialMembershipSeason4 is ERC721, ERC721Enumerable, ERC721UR
 
     function isSeasonActive() public view returns (bool) {
         // season 4 >= 2025/02/12 && < 2025/04/09
-        return block.timestamp >= 1739340000 && block.timestamp < 1744178400;
+        // we select a timestamp from the day before 
+        return block.timestamp >= 1739285435 && block.timestamp < 1744166400;
     }
 
     function safeMint() public {
