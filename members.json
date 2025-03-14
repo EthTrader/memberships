@@ -54,5 +54,13 @@
         "type": "nft",
         "community": "ethtrader",
         "season": 4
+    },
+    {
+        "token_id": "deprecated",
+        "owner": "0x0F00d07f7A1F4129E1E2509A87d9968C2c356443",
+        "redditor": "InclineDumbbellPress",
+        "type": "nft",
+        "community": "ethtrader",
+        "season": 4
     }
 ]
