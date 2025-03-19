@@ -62,5 +62,13 @@
         "type": "nft",
         "community": "ethtrader",
         "season": 4
+    },
+    {
+        "token_id": "deprecated",
+        "owner": "0xE40EaDCD565221B63bB106D668baa43941B53a65",
+        "redditor": "LegendRXL",
+        "type": "nft",
+        "community": "ethtrader",
+        "season": 4
     }
 ]
