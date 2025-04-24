@@ -38,5 +38,13 @@
         "type": "nft",
         "community": "ethtrader",
         "season": 5
+    },
+    {
+        "token_id": "deprecated",
+        "owner": "0xf8b2808E19413E0b14C2966dD6afB497c7F5A919",
+        "redditor": "timbulance",
+        "type": "nft",
+        "community": "ethtrader",
+        "season": 5
     }
 ]
