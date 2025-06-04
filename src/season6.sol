@@ -22,7 +22,7 @@ contract EthTraderSpecialMembershipSeason6 is ERC721, ERC721Enumerable, ERC721UR
         DonutCostToMint = 1000;
 
         _grantRole(DEFAULT_ADMIN_ROLE, msg.sender);
-        _grantRole(DEFAULT_ADMIN_ROLE, 0xCA7faf6c0441049e2F449fbA86B77587987A21Fe);  // 0xMarcAurel
+        _grantRole(DEFAULT_ADMIN_ROLE, 0x0c4B8B79E0ebA3e407Bc175176Db496474046e9a);  // 0xMarcAurel
         _grantRole(DEFAULT_ADMIN_ROLE, 0x80148c5d2b61182107f43FAE67f8F2ec4b5dbcDE);  // Basoosh
     }
 
