@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "token_id": "deprecated",
+        "owner": "0x7A69fcEE302318cE0aDFBE506Bc7eC9d2Cd37cC3",
+        "redditor": "thecryptos",
+        "type": "nft",
+        "community": "ethtrader",
+        "season": 6
+    }
+]
