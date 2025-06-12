@@ -38,5 +38,21 @@
         "type": "nft",
         "community": "ethtrader",
         "season": 6
+    },
+    {
+        "token_id": "deprecated",
+        "owner": "0x0c4B8B79E0ebA3e407Bc175176Db496474046e9a",
+        "redditor": "0xMarcAurel",
+        "type": "nft",
+        "community": "ethtrader",
+        "season": 6
+    },
+    {
+        "token_id": "deprecated",
+        "owner": "0xFEdD14d3a32FaAbfbd6E290fAA73Aec58e894650",
+        "redditor": "DBRiMatt",
+        "type": "nft",
+        "community": "ethtrader",
+        "season": 6
     }
 ]
