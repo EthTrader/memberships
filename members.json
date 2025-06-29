@@ -70,5 +70,13 @@
         "type": "nft",
         "community": "ethtrader",
         "season": 6
+    },
+    {
+        "token_id": "deprecated",
+        "owner": "0xF4844a06d4f995C4c03195AfcB5Aa59dCBB5b4Fc",
+        "redditor": "wijuwiju",
+        "type": "nft",
+        "community": "ethtrader",
+        "season": 6
     }
 ]
