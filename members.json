@@ -62,5 +62,13 @@
         "type": "nft",
         "community": "ethtrader",
         "season": 7
+    },
+    {
+        "token_id": "deprecated",
+        "owner": "0xbA57aCa2547387c651cA32FE7b17D92F90253B44",
+        "redditor": "lorem_epsom_dollar",
+        "type": "nft",
+        "community": "ethtrader",
+        "season": 7
     }
 ]
