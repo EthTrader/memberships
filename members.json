@@ -86,5 +86,13 @@
         "type": "nft",
         "community": "ethtrader",
         "season": 7
+    },
+    {
+        "token_id": "deprecated",
+        "owner": "0x94f5926AD5902b41588097788A1e84884aCE4494",
+        "redditor": "CymandeTV",
+        "type": "nft",
+        "community": "ethtrader",
+        "season": 7
     }
 ]
