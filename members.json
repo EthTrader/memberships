@@ -94,5 +94,13 @@
         "type": "nft",
         "community": "ethtrader",
         "season": 7
+    },
+    {
+        "token_id": "deprecated",
+        "owner": "0x442cA1C33e532295F7acEE8B1398fEcF2fbd110f",
+        "redditor": "AwchoHaino",
+        "type": "nft",
+        "community": "ethtrader",
+        "season": 7
     }
 ]
