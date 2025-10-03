@@ -1,75 +1,11 @@
 [
     {
         "token_id": "deprecated",
-        "owner": "0xFEdD14d3a32FaAbfbd6E290fAA73Aec58e894650",
-        "redditor": "DBRiMatt",
+        "owner": "0x80148c5d2b61182107f43FAE67f8F2ec4b5dbcDE",
+        "redditor": "Basoosh",
         "type": "nft",
         "community": "ethtrader",
-        "season": 7
-    },
-    {
-        "token_id": "deprecated",
-        "owner": "0x0c4B8B79E0ebA3e407Bc175176Db496474046e9a",
-        "redditor": "0xMarcAurel",
-        "type": "nft",
-        "community": "ethtrader",
-        "season": 7
-    },
-    {
-        "token_id": "deprecated",
-        "owner": "0x2C86F88CD046aCf1730F6c1D00E5de8106EAB83b",
-        "redditor": "YankeeDoodlePeguin",
-        "type": "nft",
-        "community": "ethtrader",
-        "season": 7
-    },
-    {
-        "token_id": "deprecated",
-        "owner": "0x5ce03C34F851066DA7a7392526a7EC4F81790e1D",
-        "redditor": "Creative_Ad7831",
-        "type": "nft",
-        "community": "ethtrader",
-        "season": 7
-    },
-    {
-        "token_id": "deprecated",
-        "owner": "0x823203809D31109e99F27092dE19F60a22DF61C5",
-        "redditor": "Wonderful_Bad6531",
-        "type": "nft",
-        "community": "ethtrader",
-        "season": 7
-    },
-    {
-        "token_id": "deprecated",
-        "owner": "0xc149c6d082Da03319497A4Cfea8324A88CD1C898",
-        "redditor": "kirtash93",
-        "type": "nft",
-        "community": "ethtrader",
-        "season": 7
-    },
-    {
-        "token_id": "deprecated",
-        "owner": "0xf8b2808E19413E0b14C2966dD6afB497c7F5A919",
-        "redditor": "timbulance",
-        "type": "nft",
-        "community": "ethtrader",
-        "season": 7
-    },
-    {
-        "token_id": "deprecated",
-        "owner": "0x59e9d2Aa9bE64Ea7C1E22a86e166BE6382B1ae91",
-        "redditor": "salil19",
-        "type": "nft",
-        "community": "ethtrader",
-        "season": 7
-    },
-    {
-        "token_id": "deprecated",
-        "owner": "0xbA57aCa2547387c651cA32FE7b17D92F90253B44",
-        "redditor": "lorem_epsom_dollar",
-        "type": "nft",
-        "community": "ethtrader",
-        "season": 7
+        "season": 8
     },
     {
         "token_id": "deprecated",
@@ -77,15 +13,23 @@
         "redditor": "Odd-Radio-8500",
         "type": "nft",
         "community": "ethtrader",
-        "season": 7
+        "season": 8
     },
     {
         "token_id": "deprecated",
-        "owner": "0xEe05858e4D9F363E3f3B5952c33D9dbB668c953c",
-        "redditor": "da_dreamerr",
+        "owner": "0x5ce03C34F851066DA7a7392526a7EC4F81790e1D",
+        "redditor": "Creative_Ad7831",
         "type": "nft",
         "community": "ethtrader",
-        "season": 7
+        "season": 8
+    },
+    {
+        "token_id": "deprecated",
+        "owner": "0xc149c6d082Da03319497A4Cfea8324A88CD1C898",
+        "redditor": "kirtash93",
+        "type": "nft",
+        "community": "ethtrader",
+        "season": 8
     },
     {
         "token_id": "deprecated",
@@ -93,14 +37,6 @@
         "redditor": "CymandeTV",
         "type": "nft",
         "community": "ethtrader",
-        "season": 7
-    },
-    {
-        "token_id": "deprecated",
-        "owner": "0x442cA1C33e532295F7acEE8B1398fEcF2fbd110f",
-        "redditor": "AwchoHaino",
-        "type": "nft",
-        "community": "ethtrader",
-        "season": 7
+        "season": 8
     }
 ]
