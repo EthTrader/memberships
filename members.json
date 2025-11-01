@@ -1,15 +1,5 @@
 [
     {
-        "token_id": 4,
-        "owner": "0x795065F0368BE7149140D2b134fe2bA072db42AE",
-        "redditor": "Odd-Radio-8500",
-        "created": 1759397512,
-        "created_string": "2025-10-02 09:31:52 UTC",
-        "expires": 1761989512,
-        "expires_string": "2025-11-01 09:31:52 UTC",
-        "community": "EthTrader"
-    },
-    {
         "token_id": 5,
         "owner": "0x5ce03C34F851066DA7a7392526a7EC4F81790e1D",
         "redditor": "Creative_Ad7831",
