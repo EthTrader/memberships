@@ -1,15 +1,5 @@
 [
     {
-        "token_id": 12,
-        "owner": "0xbA57aCa2547387c651cA32FE7b17D92F90253B44",
-        "redditor": "lorem_epsom_dollar",
-        "created": 1761826771,
-        "created_string": "2025-10-30 12:19:31 UTC",
-        "expires": 1764418771,
-        "expires_string": "2025-11-29 12:19:31 UTC",
-        "community": "EthTrader"
-    },
-    {
         "token_id": 13,
         "owner": "0x354E93137D53ec467112504d7b0e4961362Ef7B7",
         "redditor": "0xMarcAurel",
