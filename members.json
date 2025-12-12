@@ -1,15 +1,5 @@
 [
     {
-        "token_id": 16,
-        "owner": "0xFEdD14d3a32FaAbfbd6E290fAA73Aec58e894650",
-        "redditor": "DBRiMatt",
-        "created": 1762911458,
-        "created_string": "2025-11-12 01:37:38 UTC",
-        "expires": 1765503458,
-        "expires_string": "2025-12-12 01:37:38 UTC",
-        "community": "EthTrader"
-    },
-    {
         "token_id": 17,
         "owner": "0x5ce03C34F851066DA7a7392526a7EC4F81790e1D",
         "redditor": "Creative_Ad7831",
