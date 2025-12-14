@@ -48,5 +48,15 @@
         "expires": 1767947191,
         "expires_string": "2026-01-09 08:26:31 UTC",
         "community": "EthTrader"
+    },
+    {
+        "token_id": 22,
+        "owner": "0xFEdD14d3a32FaAbfbd6E290fAA73Aec58e894650",
+        "redditor": "DBRiMatt",
+        "created": 1765724776,
+        "created_string": "2025-12-14 15:06:16 UTC",
+        "expires": 1768316776,
+        "expires_string": "2026-01-13 15:06:16 UTC",
+        "community": "EthTrader"
     }
 ]
