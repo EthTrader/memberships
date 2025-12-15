@@ -58,5 +58,15 @@
         "expires": 1768316776,
         "expires_string": "2026-01-13 15:06:16 UTC",
         "community": "EthTrader"
+    },
+    {
+        "token_id": 23,
+        "owner": "0xD90C22d2Da086Eaf293E6Ca056116C7d08DecA47",
+        "redditor": "SigiNwanne",
+        "created": 1765773176,
+        "created_string": "2025-12-15 04:32:56 UTC",
+        "expires": 1768365176,
+        "expires_string": "2026-01-14 04:32:56 UTC",
+        "community": "EthTrader"
     }
 ]
