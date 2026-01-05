@@ -88,5 +88,15 @@
         "expires": 1769689227,
         "expires_string": "2026-01-29 12:20:27 UTC",
         "community": "EthTrader"
+    },
+    {
+        "token_id": 28,
+        "owner": "0x354E93137D53ec467112504d7b0e4961362Ef7B7",
+        "redditor": "0xMarcAurel",
+        "created": 1767647893,
+        "created_string": "2026-01-05 21:18:13 UTC",
+        "expires": 1770239893,
+        "expires_string": "2026-02-04 21:18:13 UTC",
+        "community": "EthTrader"
     }
 ]
