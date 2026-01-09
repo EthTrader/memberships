@@ -1,15 +1,5 @@
 [
     {
-        "token_id": 20,
-        "owner": "0xc149c6d082Da03319497A4Cfea8324A88CD1C898",
-        "redditor": "kirtash93",
-        "created": 1765349565,
-        "created_string": "2025-12-10 06:52:45 UTC",
-        "expires": 1767941565,
-        "expires_string": "2026-01-09 06:52:45 UTC",
-        "community": "EthTrader"
-    },
-    {
         "token_id": 21,
         "owner": "0x94f5926AD5902b41588097788A1e84884aCE4494",
         "redditor": "CymandeTV",
