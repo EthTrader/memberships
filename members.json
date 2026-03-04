@@ -58,5 +58,15 @@
         "expires": 1774977004,
         "expires_string": "2026-03-31 17:10:04 UTC",
         "community": "EthTrader"
+    },
+    {
+        "token_id": 42,
+        "owner": "0x7A69fcEE302318cE0aDFBE506Bc7eC9d2Cd37cC3",
+        "redditor": "thecryptos",
+        "created": 1772626098,
+        "created_string": "2026-03-04 12:08:18 UTC",
+        "expires": 1775218098,
+        "expires_string": "2026-04-03 12:08:18 UTC",
+        "community": "EthTrader"
     }
 ]
